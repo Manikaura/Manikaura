@@ -1,16 +1,18 @@
-### Hi there 👋
+👋🏻 Hi, there it's me Manik
 
-<!--
-**Manikaura/Manikaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+I am a Data Scientist at a healthcare based company Innovaccer working on Machine learning and Deep Learning based problems.
+I have completed my graduation in Bachelor of Engineering from chitkara institute of engineering and technology, Punjab in BE.I am highly enthusiastic in learning new technology and exploring new things.
+I love to explore technology which are related to data analytics ,Artificial Intelligence and Science.
 
-Here are some ideas to get you started:
+🎯 What I,am Currently Working on:
+I am Data science, data analytics , Natural Language Processing & Computer Vision Enthusiast and working on and learning in these domains.
+I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures, data visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+� What I am looking forward for at the moment:
+I am Open For Internships, You can Send me your Offer on My mail or just Message me.
+
+� How to Contact me:
+📫 Linked In: 
+
+📫 Email: 
