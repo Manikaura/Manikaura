@@ -1,7 +1,7 @@
 # 👋🏻 Hi there, I'm Manik
 
 ## About Me:
-I am a Data Scientist at Innovaccer, a healthcare-based company, where I focus on solving Machine Learning and Deep Learning problems. With a Bachelor of Engineering degree from Chitkara Institute of Engineering and Technology, Punjab, I am deeply passionate about learning new technologies and exploring innovative solutions.
+I am a Data Scientist at ##Innovaccer, a healthcare-based company, where I focus on solving Machine Learning and Deep Learning problems. With a Bachelor of Engineering degree from ##Chitkara Institute of Engineering and Technology, Punjab, I am deeply passionate about learning new technologies and exploring innovative solutions.
 
 ## 🎯 What I'm Currently Working On:
 - Data Science, Data Analytics, Natural Language Processing & Computer Vision Enthusiast
