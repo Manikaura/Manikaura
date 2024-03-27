@@ -12,5 +12,5 @@ I am a Data Scientist at Innovaccer, a healthcare-based company, where I focus o
 I am currently open to internships opportunities. Feel free to reach out to me via email or LinkedIn.
 
 ## 📫 How to Contact Me:
-- **LinkedIn:** [Manik kaura](https://www.linkedin.com/in/manik-kaura-3213421b1/)
-- **Email:** (manikkaura2002@gmail.com)
+- **LinkedIn:** [ Linked In](https://www.linkedin.com/in/manik-kaura-3213421b1/)
+- **Email:** [ E Mail](manikkaura2002@gmail.com)
