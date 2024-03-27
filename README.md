@@ -1,18 +1,16 @@
-👋🏻 Hi, there it's me Manik
+# 👋🏻 Hi there, I'm Manik
 
-About me:
-I am a Data Scientist at a healthcare based company Innovaccer working on Machine learning and Deep Learning based problems.
-I have completed my graduation in Bachelor of Engineering from chitkara institute of engineering and technology, Punjab in BE.I am highly enthusiastic in learning new technology and exploring new things.
-I love to explore technology which are related to data analytics ,Artificial Intelligence and Science.
+## About Me:
+I am a Data Scientist at Innovaccer, a healthcare-based company, where I focus on solving Machine Learning and Deep Learning problems. With a Bachelor of Engineering degree from Chitkara Institute of Engineering and Technology, Punjab, I am deeply passionate about learning new technologies and exploring innovative solutions.
 
-🎯 What I,am Currently Working on:
-I am Data science, data analytics , Natural Language Processing & Computer Vision Enthusiast and working on and learning in these domains.
-I am working on technologies such as Deep Learning,Machine Learning,Web Development ,Data Structures, data visualizations.
+## 🎯 What I'm Currently Working On:
+- Data Science, Data Analytics, Natural Language Processing & Computer Vision Enthusiast
+- Actively engaged in learning and working within these domains
+- Proficient in technologies such as Deep Learning, Machine Learning, Web Development, Data Structures, and Data Visualizations
 
-� What I am looking forward for at the moment:
-I am Open For Internships, You can Send me your Offer on My mail or just Message me.
+## 🚀 What I'm Looking Forward To:
+I am currently open to internships opportunities. Feel free to reach out to me via email or LinkedIn.
 
-� How to Contact me:
-📫 Linked In: 
-
-📫 Email: 
+## 📫 How to Contact Me:
+- **LinkedIn:** [Manik kaura](https://www.linkedin.com/in/manik-kaura-3213421b1/)
+- **Email:** (manikkaura2002@gmail.com)
